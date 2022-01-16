@@ -1,2 +1,2 @@
 # chatbot-python
-A chatbot to get started
+A chatbot built using keras(deep learning) nltk(natural language tool kit).
